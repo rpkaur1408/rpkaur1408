@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rehatpreet Kaur
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my corner of github...
 =======================================================================================================================================
 
-Learner
+Knowledge hunter
 -------
 
-* 🌍  I'm based in Canada
-* ✉️  You can contact me at [rehatpreetkaur981@gmail.com](mailto:rehatpreetkaur981@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🌍 A student at Seneca Polytechnic, Toronto
+* ✉️  You can disturb me at [rehatpreetkaur981@gmail.com](mailto:rehatpreetkaur981@gmail.com)
+* 🧠  Currently brain storming in MERN Stack
 * ⚡  Shh... I'm secretly trying to break the world record for most coffees consumed in a day.
 
-### Skills
-
+### 
+<h2 align="center">Skills</h2>
+###
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -27,8 +28,9 @@ Learner
 </p>
 
 
-### Socials
-
+### 
+<h2 align="center">Active At:</h2>
+###
 <p align="left">
   <a href="https://discord.com/users/rehatpreetkaur" target="_blank" rel="noreferrer">
     <picture>
@@ -58,12 +60,12 @@ Learner
 </p>
 
 
-### Badges
+### 
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rpkaur1408"><img src="https://github-readme-stats.vercel.app/api?username=rpkaur1408&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="rpkaur1408's GitHub stats" /></a>
 
-<a href="http://www.github.com/rpkaur1408"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rpkaur1408&stroke=10b981&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=10b981&currStreakLabel=3382ed&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
 
 <a href="https://github.com/rpkaur1408" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpkaur1408&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
