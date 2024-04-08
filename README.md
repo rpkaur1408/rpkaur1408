@@ -27,8 +27,7 @@ Learner
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </picture>
   </a>
-  
-  &nbsp; <!-- Added space -->
+  &nbsp;&nbsp;&nbsp; <!-- Added space -->
 
   <a href="https://www.github.com/rpkaur1408" target="_blank" rel="noreferrer">
     <picture>
@@ -37,8 +36,7 @@ Learner
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-
-  &nbsp; <!-- Added space -->
+  &nbsp;&nbsp;&nbsp; <!-- Added space -->
 
   <a href="https://www.linkedin.com/in/rehatpreet-kaur" target="_blank" rel="noreferrer">
     <picture>
@@ -48,6 +46,7 @@ Learner
     </picture>
   </a>
 </p>
+
 
 ### Badges
 
