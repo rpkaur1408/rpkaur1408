@@ -62,7 +62,7 @@ Knowledge hunter
 
 ### 
 
-<b>My GitHub Stats</b>
+<h2 align="center">My Contribution to github</h2>
 
 <a href="http://www.github.com/rpkaur1408"><img src="https://github-readme-stats.vercel.app/api?username=rpkaur1408&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="rpkaur1408's GitHub stats" /></a>
 
