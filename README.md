@@ -10,7 +10,7 @@ Knowledge hunter
 * ⚡  Shh... I'm secretly trying to break the world record for most coffees consumed in a day.
 
 ### 
-<h2 align="center">Skills</h2>
+<h2 align="center">Skills...</h2>
 
 
 <p align="center">
