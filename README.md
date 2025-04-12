@@ -7,7 +7,7 @@ Knowledge hunter
 * 🌍 A student at Seneca Polytechnic, Toronto
 * ✉️  You can disturb me at [rehatpreetkaur981@gmail.com](mailto:rehatpreetkaur981@gmail.com)
 * 🧠  Currently brain storming in MERN Stack
-* ⚡  Shh... I'm secretly trying to break the world record for most coffees consumed in a day.
+* ⚡  Shh... I'm secretly trying to break the world record for slapping sohel...
 
 ### 
 <h2 align="center">Skills...</h2>
