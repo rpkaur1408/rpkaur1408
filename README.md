@@ -61,14 +61,6 @@ Currently digging into AI and ML
 <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 
-### 
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-🚗 <b><a href="https://github.com/rpkaur1408/Self_Driving_Car">Self-Driving Car</a></b> — CNN-based behavioral cloning, trained to steer from raw camera frames<br/>
-☁️ <b><a href="https://github.com/rpkaur1408/fragments">Fragments Microservice</a></b> — REST API on AWS (ECS, S3, DynamoDB) with full CI/CD<br/>
-🧪 <b><a href="https://github.com/rpkaur1408/Route-Opti-Test">Route-Opti-Test</a></b> — Route optimization tool validated through a full QA lifecycle
-</p>
 
 ### 
 <h2 align="center">Active At</h2>
@@ -101,10 +93,4 @@ Currently digging into AI and ML
   </a>
 </p>
 
-### 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-<a href="http://www.github.com/rpkaur1408"><img src="https://github-readme-stats.vercel.app/api?username=rpkaur1408&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="rpkaur1408's GitHub stats" /></a>
 
-<a href="https://github.com/rpkaur1408" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpkaur1408&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-</div>
